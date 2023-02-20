@@ -1,2 +1,2 @@
 # Random_training
-Mencoba mengikuti step step
+Mencoba mengikuti **step step**
